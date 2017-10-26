@@ -4,4 +4,8 @@ public class Hello
   {
   System.out.println(" HELLO " );
   }
+  public Static void SayHello()
+  {
+    System.out.println( "Hello" );
+  }
 } 
